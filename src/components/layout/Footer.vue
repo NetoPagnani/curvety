@@ -30,7 +30,7 @@
         <h3>Contato</h3>
         <ul>
           <li><i class="fas fa-map-marker-alt" /> Av. Principal, 1234</li>
-          <li><i class="fas fa-phone" /> (11) 99999-9999</li>
+          <li><i class="fab fa-whatsapp" />  (11) 99999-9999</li>
           <li><i class="fas fa-envelope" /> contato@curvety.com</li>
         </ul>
       </div>
