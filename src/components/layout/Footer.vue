@@ -62,6 +62,7 @@ footer {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
+  gap: 20px;
 }
 .footer-section {
   flex: 1;
